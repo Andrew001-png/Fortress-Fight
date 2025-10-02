@@ -1,7 +1,7 @@
 
 {
-  "Name": "<b><color=cyan><i>Fortress</i></a> <color=#8B0000>Fight</a></b> <i>Demo</i>",
-  "Description": "Сражайтесь со своей командой против вражеской команды!",
+  "Name": "<b><color=#40E0D0><i>Fortress</i></a> <color=#8B0000>Fight</a></b>",
+  "Description": "Сражайтесь со своей командой против вражеской команды! <i>in testing</i>",
   "StartClientVersion": 334,
   "MapLists": [
     
